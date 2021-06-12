@@ -1,5 +1,4 @@
 # weather-service
-# cb-credential-service
 1. clone the git repository from following url
 ```
   $ git clone git@github.com:mayankmike86/weather-service.git
