@@ -1,0 +1,17 @@
+{
+  "name": "weather-forecast-service",
+  "version": "1.0.0",
+  "description": "Service to get live weather forcast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-jsonschema": "1.1.6",
+    "request-promise": "^4.2.4",
+    "request": "^2.85.0"
+  }
+}
