@@ -12,6 +12,6 @@ var weatherRoutes = require('./src/app/v1/routes/weather-routes');
 
 app.use(baseUrl, weatherRoutes);
 app.listen(port, () => {  
-    console.log('Cloud Brokerage Credential Service is live on ' + port);
+    console.log('Weather Service is live on ' + port);
 });
 
