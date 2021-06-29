@@ -14,7 +14,7 @@
 
 5. Run following command to start server
 ```
-	node app
+    node app
 ```
 
 # Steps to Dockerige the App
@@ -23,9 +23,9 @@ Run following command to run containerized app.
 
 1. 
 ```
-	docker build . -t mayank/weather
+    docker build . -t mayank/weather
 ```
 2. 
 ```
-	docker run -p 3234:8000 -d mayank/weather
+    docker run -p 3234:8000 -d mayank/weather
 ```
